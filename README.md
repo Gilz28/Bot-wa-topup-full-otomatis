@@ -15,13 +15,13 @@ Ini adalah bot topup WhatsApp, full otomatis qris, intregasi dengan pg Qiospay d
 requests
 # Isi Procfile
 worker: python bot/main.py
-# start
+# buka terminal
+cd path/ke/folder/wa-topup-bot
 git init
-git add .
-git commit -m "first commit"
-git branch -M main
 git remote add origin https://github.com/Gilz28/Bot-wa-topup-full-otomatis.git
-git push -u origin main
+git add .
+git commit -m "Upload full bot WhatsApp topup"
+git push -u origin master
 # Pterodactyl Setup
 1.Masuk panel → Create server baru
 2.Pilih egg: Python
