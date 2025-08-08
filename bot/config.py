@@ -1,0 +1,13 @@
+# Konfigurasi API dan variabel penting
+
+# API Requime
+REQUIME_API_KEY = "ISI_APIKEY_REQUIME"
+REQUIME_SECRET = "ISI_SECRET_REQUIME"
+
+# Qiospay (PG QRIS)
+QIOSPAY_MERCHANT_CODE = "QP032311"
+QIOSPAY_API_KEY = "e59856a632589d92d49b43bc2f796abaf4683c1605839706d895f5f72d44b0c1"
+
+# Chat-API
+CHAT_API_URL = "https://eu14.chat-api.com/instance1234"
+CHAT_API_TOKEN = "your_token_here"
